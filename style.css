@@ -382,7 +382,6 @@ p {
 	position: relative;
 }
 #projects .project-img:after {
-	content: '';
 	position: absolute;
 	left: 0;
 	top: 0;
