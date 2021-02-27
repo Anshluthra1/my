@@ -12,14 +12,14 @@
   border: 0;
   font-size: 18px;
   padding: 15px;
-  margin-left: 40px;
+  margin-left: 250px;
   height: 50px;
   width: 50px;
   transition: width 0.3s ease;
 }
 
 .btn {
-  background-color: black;
+  background-color: #fff;
   border: 0;
   cursor: pointer;
   font-size: 24px;
