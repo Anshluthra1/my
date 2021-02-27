@@ -1,7 +1,7 @@
-consta hamburger = document.querySelector('.header .nav-bar .nav-list .hamburger');
-consta mobile_menu = document.querySelector('.header .nav-bar .nav-list ul');
-consta menu_item = document.querySelectorAll('.header .nav-bar .nav-list ul li a');
-consta header = document.querySelector('.header.container');
+var hamburger = document.querySelector('.header .nav-bar .nav-list .hamburger');
+var mobile_menu = document.querySelector('.header .nav-bar .nav-list ul');
+var menu_item = document.querySelectorAll('.header .nav-bar .nav-list ul li a');
+var header = document.querySelector('.header.container');
 
 hamburger.addEventListener('click', () => {
 	hamburger.classList.toggle('active');
